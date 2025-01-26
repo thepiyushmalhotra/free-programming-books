@@ -65,6 +65,7 @@ ADV - Продвинутый. Тонкости.
 ### Elixir
 
 * [Язык программирования Эликсир](https://github.com/yzh44yzh/elixir_course) - Yuri Zhloba
+* [Elixir - функциональная разработка](https://www.youtube.com/playlist?list=PLWlFXymvoaJ_SWXOOm2JSqv86ZBkQ9-zo) - Ilya Krukowski (BEG)
 
 
 ### Go
@@ -171,7 +172,6 @@ ADV - Продвинутый. Тонкости.
 * [Программирование на Python](https://stepik.org/course/67) - Тимофей Бондарев, Павел Федотов (Stepik) (BEG)
 * [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG)
 * [Python для начинающих](https://ru.code-basics.com/languages/python) - Code-basics (BEG)
-* [Python для тех, у кого лапки](https://stepik.org/course/85388) - Мария Чакчурина, Дмитрий Колосов (Stepik) (INT)
 * [Python: основы и применение](https://stepik.org/course/512) - Константин Зайцев, Антон Гардер (Stepik) (INT)
 
 

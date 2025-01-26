@@ -8,8 +8,8 @@
 * [Blazor](#blazor)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C#](#csharp)
-* [Cấu trúc dữ liệu và Giải thuật](#cautrucdulieuvagiaithuat)
+* [C#](#a-idcsharpac)
+* [Cấu trúc dữ liệu và Giải thuật](#cấu-trúc-dữ-liệu-và-giải-thuật)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -141,6 +141,7 @@
 * [HTML](https://www.codehub.com.vn/HTML) - Codehub
 * [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban) - Codehub
 * [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
+* [HTML Dành Cho Lập Trình Viên Web](https://zendvn.com/mien-phi-html-danh-cho-lap-trinh-vien-web-68) - Nguyen Van Linh (ZendVN)
 * [Tự Học Thiết Kế Website với HTML và CSS](https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-va-CSS) - Codehub
 
 
@@ -308,6 +309,7 @@
 * [Đồ án Web môi giới](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1j4vjp-QLc1KHR1LPIl3G) - J2Team
 * [Lập Trình Web Chuyên Sâu](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1l9XIGemSpy8bnm7QDmsY) - J2Team
 * [Lập Trình Web Cơ Bản](https://www.youtube.com/playlist?list=PLiyVagO7GfBE3_b-4lJEVk7iq1pHQ-xcM) - J2Team
+* [MERN PRO • Học lập trình Front-end + Back-end | Làm dự án thực tế Trello kéo thả](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy) - TrungQuanDev - Một Lập Trình Viên
 
 
 ### Wordpress

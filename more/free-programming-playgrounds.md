@@ -27,6 +27,7 @@
     * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
+* [Linux](#linux)
 * [Multiple Languages](#multiple-languages)
 * [.Net](#dotnet)
 * [Nim](#nim)
@@ -82,21 +83,31 @@
 
 ### <a id="c"></a>C
 
+* [C Playground](https://programiz.pro/ide/c) - Programiz PRO
 * [InterviewBit - Online C Compiler IDE](https://www.interviewbit.com/online-c-compiler/)
 * [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
-* [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
+* [Online C Compiler](https://www.programiz.com/c-programming/online-compiler/) - Programiz
 * [SoloLearn](https://code.sololearn.com/c)
 
 
 ### <a id="csharp"></a>C\#
 
+* [C# Online Compiler](https://www.scholarhat.com/compiler/csharp) - ScholarHat
+* [C# Online Compiler](https://www.w3schools.com/cs/cs_compiler.php) - W3Schools
+* [C# playground](https://codapi.org/csharp) - Codeapi
+* [OneCompiler](https://onecompiler.com/csharp/3wv9zujyk)
+* [Online C# Compiler](https://www.mycompiler.io/online-csharp-compiler) - myCompiler
+* [Online C# Compiler IDE](https://www.jdoodle.com/compile-c-sharp-online) - JDoodle
 * [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)
-* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
+* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler)
+* [SharpLab](https://sharplab.io)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 
 ### <a id="cpp"></a>C++
 
+* [C++ Shell](https://cpp.sh)
+* [Codapi](https://codapi.org/cpp)
 * [Coding Blocks](https://ide.codingblocks.com)
 * [Coding Minutes](https://ide.codingminutes.com)
 * [Compiler Explorer](https://godbolt.org)
@@ -137,6 +148,7 @@
 
 ### Docker
 
+* [Online Docker Playground](https://labex.io/tutorials/docker-online-docker-playground-372912)
 * [Play with Docker](https://labs.play-with-docker.com)
 
 
@@ -159,7 +171,8 @@
 
 ### Git
 
-* [Git](https://learngitbranching.js.org/?NODEMO)
+* [Git-school](https://git-school.github.io/visualizing-git)
+* [Learn Git Branching](https://learngitbranching.js.org/?NODEMO)
 
 
 ### Go
@@ -208,6 +221,7 @@
 * [Java Compiler](https://www.codinguru.online/compiler/java)
 * [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
 * [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [Online Java Playground](https://labex.io/tutorials/java-online-java-playground-372914)
 * [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 * [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
@@ -250,6 +264,11 @@
 ### Kubernetes
 
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
+
+
+### Linux
+
+* [Online Linux Terminal and Playground](https://labex.io/tutorials/linux-online-linux-playground-372915)
 
 
 ### Markdown
@@ -299,6 +318,7 @@
 * [Codepad](http://codepad.org/?lang=PHP)
 * [ExtendsClass](https://extendsclass.com/php.html)
 * [PHP Online Compiler](https://www.codinguru.online/compiler/php)
+* [PHPHub](https://phphub.net/sandbox/)
 * [PHPTester](http://phptester.net)
 * [SoloLearn](https://code.sololearn.com/php)
 
@@ -308,11 +328,12 @@
 * [Codepad](http://codepad.org/?lang=Python)
 * [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
 * [Online Python](https://www.online-python.com)
+* [Online Python Compiler](https://www.programiz.com/python-programming/online-compiler/) - Programiz
 * [Online Python Compiler](https://www.tutorialspoint.com/online_python_compiler.php) - Tutorialspoint
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
-* [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Online Compilers](https://www.codinguru.online/compiler/python)
+* [Python Playground](https://programiz.pro/ide/python) - Programiz PRO
 * [Python Trinket](https://trinket.io/python)
 * [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)
@@ -347,6 +368,7 @@
 ### Regular Expressions
 
 * [iHateRegex: regex for playground](https://ihateregex.io/playground) - Geon George
+* [Pyrexp](https://pythonium.net/regex) - Cyril Bois
 * [Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com) - Dan's Tools
 * [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
 * [Regexper](https://regexper.com) - Jeff Avallone

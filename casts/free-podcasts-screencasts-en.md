@@ -207,7 +207,9 @@
 * [ShopTalk](https://shoptalkshow.com) - Dave Rupert, Chris Coyier. (podcast)
 * [Syntax](https://syntax.fm) - Wes Bos, Scott Tolinski (podcast)
 * [The JavaScript Show](http://javascriptshow.com) - Peter Cooper, Jason Seifer (podcast)
+* [The Junior Jobs Podcast](https://podcasters.spotify.com/pod/show/junior-jobs/episodes/59--The-Problem-With-Changing-Careers-and-How-To-Overcome-It--Junior-Jobs-e2lnm9f) - Erik Andersen (podcast)
 * [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
+* [Virtual Coffee](https://virtualcoffee.io/podcast) - Bekah Hawrot Weigel, Dan Ott, Meghan Gutshall, Kirk Shillingford (podcast)
 * [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
 
 
@@ -289,6 +291,7 @@
 * [Domain Driven Design Europe](https://dddeurope.com/videos/) (screencast)
     * [Domain Driven Design Europe - 2017](https://2017.dddeurope.com/#videos) (screencast)
 * [FLOSS WEEKLY](https://twit.tv/shows/floss-weekly) - Doc Searls, Aaron Newcomb, Dan Lynch, Simon Phipps, Jonathan Bennett, Shawn Powers, Katherine Druckman (podcast)
+* [Frontend Masters](https://www.youtube.com/playlist?list=PLum3CyP95edxwLIHenKw0nMHlfvr76ZSU) - Marc Grabanski, Frontend Masters team (screencast)
 * [Frontside the Podcast](https://frontside.io/podcast/) - Charles Lowell, Taras Mankovski (podcast)
 * [Full Stack Radio](https://www.fullstackradio.com) - Adam Wathan (podcast)
 * [Functional Geekery](https://www.functionalgeekery.com) - Steven Proctor (podcast)

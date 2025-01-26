@@ -66,6 +66,7 @@
 
 ### C
 
+* [C-HowTo: Programmieren lernen mit der Programmiersprache C](https://www.c-howto.de) - Elias Fischer (HTML)
 * [C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung) - Wikibooks (HTML)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z) - Jürgen Wolf (Online)
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
@@ -119,6 +120,7 @@
 ### HTML and CSS
 
 * [CSS](http://www.peterkropff.de/site/css/css.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) (Online, PDF)
+* [Das kleine Buch der HTML-/CSS-Frameworks](https://github.com/frontenddogma/html-css-frameworks) – Jens Oliver Meiert
 * [HTML](http://www.peterkropff.de/site/html/html.htm) - Peter Kropff (Online, PDF)
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) (Online)
 * [Self HTML](https://wiki.selfhtml.org/wiki/Startseite) (Online)
@@ -159,8 +161,8 @@
 
 ### LaTeX
 
-* [LaTeX - eine Einführung und ein bisschen mehr ...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
-* [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
+* [LaTeX - eine Einführung und ein bisschen mehr ...](https://www.fernuni-hagen.de/zdi/docs/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
+* [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](https://www.fernuni-hagen.de/zdi/docs/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz) - Herbert Voß (PDF)
 
 
